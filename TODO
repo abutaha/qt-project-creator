@@ -1,0 +1,7 @@
+ * Review/rewrite the code
+ * Add option to export project for public distribution
+ * Add option to create 'deb' package from the project
+ * Add option to create 'rpm' package from the project
+ * Add option to create 'exe' file from the project
+ * Add 'module' import line automatically to controller.py
+ * More to be defined
