@@ -1,0 +1,3 @@
+To create a PyQt application, follow the steps:
+
+$ qt-project-creator.py startproject

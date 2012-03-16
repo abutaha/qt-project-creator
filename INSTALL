@@ -7,7 +7,7 @@ To install it, make sure you have Python 2.6 or greater installed. Also you need
      * python-setuptools
      * Good luck :)
 
-Then run this command from the command prompt:
+Then run this command from the command prompt (as root/administrator):
 
     python setup.py install
 
